@@ -1,0 +1,992 @@
+﻿[
+    {
+        "path":  "1. Платформа_бренда_ТЕХНИКУМ_30_09_25.pdf",
+        "bytes":  3906594,
+        "sha256":  "b1be2d9cc290139b2257da2c5d137e4e8f69d22d58796aa24a367d2ffebd1e38"
+    },
+    {
+        "path":  "3. Фирменный стиль Техникум.pdf",
+        "bytes":  5916548,
+        "sha256":  "8cf96a9db6dfcfbdd50fda368e860ebd37e1175f1f2d1673242301ccf42071a8"
+    },
+    {
+        "path":  "4. Гайд по фото и видео Техникум.pdf",
+        "bytes":  4249196,
+        "sha256":  "a661d086cf2ef1e56f9572a896efecd49600d4e26c453973e0cd6ab9e12743c8"
+    },
+    {
+        "path":  "8. Введение в бренд для сотрудников Техникум.pdf",
+        "bytes":  7193652,
+        "sha256":  "0a8c529ac13837f1ef183f2f8ee656f3a2bcd4178fc5a6e6160ceb9512aa1999"
+    },
+    {
+        "path":  "9. Введение в бренд для партнеров Техникум.pdf",
+        "bytes":  84507928,
+        "sha256":  "a0d355da9f6ca6286e865d7e3e91b8220c1cc4b4e26e2ce55564840a74898e87"
+    },
+    {
+        "path":  "tehnikum_brandbook_new 30.09.26.pdf",
+        "bytes":  129560625,
+        "sha256":  "6a436b47ca732c78ea9fc096ed52726a4d1c93881d04bafad099a16e7d7a232c"
+    },
+    {
+        "path":  "Дерево сайта Техникум.xmind",
+        "bytes":  9481712,
+        "sha256":  "e9e2d2e6ad5a3c7bfd45c5d816e9fc4d552fe3e14239b5ccc3ec54626a6d67f7"
+    },
+    {
+        "path":  "Техникум_—_Введение_в_бренд_для_команды_—_2_0_—_25_10_2026_—_редакция.docx",
+        "bytes":  2275422,
+        "sha256":  "684be6dd87d7046b44ff776eb1f672ebe905f6f5f26e02a5d71d355983d48bb6"
+    },
+    {
+        "path":  "Layouts\\Apron\\Preview\\Apron_Preview.png",
+        "bytes":  12728940,
+        "sha256":  "610887e8248e71f741dd2721d0c8a335e1995631402586ff87dceb5605742925"
+    },
+    {
+        "path":  "Layouts\\Apron\\Print\\Apron_print.ai",
+        "bytes":  1575079,
+        "sha256":  "5930241919b7991d0987c992158189bb6a811dd341bc45d1c33bdf27e00a0b4f"
+    },
+    {
+        "path":  "Layouts\\Apron\\Print\\Apron_print.eps",
+        "bytes":  6838010,
+        "sha256":  "c85e2def558d93b4265af525f0a2db1540128ae40db65d68be1618daf44c5231"
+    },
+    {
+        "path":  "Layouts\\Apron\\Print\\Apron_print.pdf",
+        "bytes":  516672,
+        "sha256":  "b15d09dd59bd16c7aff08b8ef4b8cd9c4fc6abe0d6b0e427def9fd11059132e9"
+    },
+    {
+        "path":  "Layouts\\Apron\\Print\\Apron_print.png",
+        "bytes":  691912,
+        "sha256":  "bc92e6f9e159f70d58e4ef11043c6928e807abd88205ddaa5f13e1e40e820afd"
+    },
+    {
+        "path":  "Layouts\\Apron\\Print\\Apron_print.svg",
+        "bytes":  7573,
+        "sha256":  "43d62c9a046336fa5c812027b88b2f3776ee0b40bb1a48c8ba6f49288c7effe9"
+    },
+    {
+        "path":  "Layouts\\Burner_casing\\Preview\\Burner_casing_preview.png",
+        "bytes":  317433,
+        "sha256":  "e3a3606d159b66328c4c4f5447079ce7d48ba492148b4053a3e0bb80f84710d2"
+    },
+    {
+        "path":  "Layouts\\Carpet\\ТЗ Техникум 1350х500 26.02.2026.pdf",
+        "bytes":  1601364,
+        "sha256":  "1ba5485ab29ca0d6192c986575760efb93a9b5e762fa85d24c77f57b62e7925c"
+    },
+    {
+        "path":  "Layouts\\Certificate_Card\\Preview\\Certificate_cards.jpg",
+        "bytes":  5000364,
+        "sha256":  "3e3e277a447b0639ae73bbe5558ea54f50efd44603968c49a0bd0dd93d3e6fdf"
+    },
+    {
+        "path":  "Layouts\\Certificate_Card\\Print\\Certificate_Card_86x54_Edit.ai",
+        "bytes":  1198128,
+        "sha256":  "8a5586b5a015375c1663f80de22ac62573ff1cc4d66b607c22f53608db90c3fc"
+    },
+    {
+        "path":  "Layouts\\Certificate_Card\\Print\\Certificate_Card_86x54_Edit.eps",
+        "bytes":  1554118,
+        "sha256":  "abc9b9a56e340e28cee41d5d30bac3e3930a2b4dc6c2fd01a992798cd80cf622"
+    },
+    {
+        "path":  "Layouts\\Certificate_Card\\Print\\Certificate_Card_86x54_Preview_1.png",
+        "bytes":  14878,
+        "sha256":  "79868b0813dd61fafcb183050ff58aa87ff49021e1424ad3efcc02597c350cc2"
+    },
+    {
+        "path":  "Layouts\\Certificate_Card\\Print\\Certificate_Card_86x54_Preview_2.png",
+        "bytes":  49177,
+        "sha256":  "66d6c628eaf316320a12e11e2529e8b72e16f51636fc11c56b24887c671b7c66"
+    },
+    {
+        "path":  "Layouts\\Certificate_Card\\Print\\Certificate_Card_86x54_Print.pdf",
+        "bytes":  480277,
+        "sha256":  "4196b961f906436f8f72077f0fc48b7b30cd1a04bf708e481f8269dc36c772a7"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Preview\\Certificate_Cover.jpg",
+        "bytes":  6496664,
+        "sha256":  "88f585066f7e59a4f0d4415e7cda2119f63ae0255faa771e81fc94360cb20aa3"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_Edit.ai",
+        "bytes":  45698918,
+        "sha256":  "bd8c2db60030a849877ae37ee199566dcf8c221fa0d71ca03bf28f41defd08e0"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_Edit.eps",
+        "bytes":  38689858,
+        "sha256":  "f9347ebeddb92fd729722c8ef2379c2629734b0d51c3eb17d64dd9aaad958cd7"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_Print.pdf",
+        "bytes":  30352590,
+        "sha256":  "fc4df66868dbf8d818c1fef04d1f07a00f47ab408c62d704cfa9f11f533299fe"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_Print_1.png",
+        "bytes":  12390332,
+        "sha256":  "86ef5aca11a3bfe227cd64cabe59d36e174d756bbe857e0e6e487f8fbc1a60be"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_Print_2.png",
+        "bytes":  12218487,
+        "sha256":  "e6169c46d9476d7cb005145851af0abc21d918cf02f78e0e01504abcfd2d2e29"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_with_card_Print_1.png",
+        "bytes":  2877509,
+        "sha256":  "2b2812fe35ade9df785ff50beaf2979c98a88507c0e0085343547622e38a5526"
+    },
+    {
+        "path":  "Layouts\\Certificate_Cover\\Print\\Certificate_cover_with_card_Print_2.png",
+        "bytes":  2643220,
+        "sha256":  "df4d77e88dcc8c3d29e39afdcbbef8b8dd1e54a03b18c652696d06f4e1e7a29a"
+    },
+    {
+        "path":  "Layouts\\Check_Folder\\Preview\\Check folder.jpg",
+        "bytes":  1835533,
+        "sha256":  "219e6dcb4f0a3102ac1f676df298eb4577dacd08bd8eb4524a7ecd34c6533d11"
+    },
+    {
+        "path":  "Layouts\\Check_Folder\\Print\\Check_Folder.ai",
+        "bytes":  1398287,
+        "sha256":  "3667dc39265afec2475a272a221a928cd12020a5317bd908664e4671f8719b24"
+    },
+    {
+        "path":  "Layouts\\Check_Folder\\Print\\Check_Folder.eps",
+        "bytes":  1376802,
+        "sha256":  "9afe8653affa338175f7ad22c55ec7017b3724e97ac7b47eef8985d99bd02549"
+    },
+    {
+        "path":  "Layouts\\Check_Folder\\Print\\Check_Folder.pdf",
+        "bytes":  48510,
+        "sha256":  "f8b141d63c388f794e4f40e43320076a4ef57e9dc0e6c9f0217f2aed35efd4c7"
+    },
+    {
+        "path":  "Layouts\\Check_Folder\\Print\\Check_Folder.png",
+        "bytes":  13170,
+        "sha256":  "46a1f058774dec49be2ee4e418e56623e4da7636df6c15a7e7b49656b1a52dba"
+    },
+    {
+        "path":  "Layouts\\Check_Folder\\Print\\Check_Folder_Print.png",
+        "bytes":  39627,
+        "sha256":  "c82cb3969359d6d20d90517f7ac5321dcceee626809471deeac4612739a44ea7"
+    },
+    {
+        "path":  "Layouts\\Consumer’s_corner\\Preview\\Consumer’s_corner.png",
+        "bytes":  4365372,
+        "sha256":  "29057d7a2fda1d5b73ef97de4c425507ab5291df2361a050e01b8df104eb3ce0"
+    },
+    {
+        "path":  "Layouts\\Consumer’s_corner\\Print\\Consumer’s_corner.ai",
+        "bytes":  1436616,
+        "sha256":  "2dc0849c52c06af0f9479e38773f97a4fbf89fcc2af63ebba000470a3e3aed63"
+    },
+    {
+        "path":  "Layouts\\Consumer’s_corner\\Print\\Consumer’s_corner.eps",
+        "bytes":  2636206,
+        "sha256":  "c340a5deeebd5de02abdfdf447d53b4e00381c19fc945ef0961da035cff427d6"
+    },
+    {
+        "path":  "Layouts\\Consumer’s_corner\\Print\\Consumer’s_corner.pdf",
+        "bytes":  378732,
+        "sha256":  "c13625ded1ab8d1065df128d70a7bee02d3ff71d74e6f67acf59af7550a5132b"
+    },
+    {
+        "path":  "Layouts\\Consumer’s_corner\\Print\\Consumer’s_corner.svg",
+        "bytes":  9094,
+        "sha256":  "75f929664d534aa5c852c0265310cee31b52514ba8a4f4692f7192c2723d1eea"
+    },
+    {
+        "path":  "Layouts\\Dezinfector\\Preview\\Dezinfector.jpg",
+        "bytes":  1979801,
+        "sha256":  "5c5b1da832a8b0e836543b18c2e45bb322fd18c7e35e41731312495094e61edf"
+    },
+    {
+        "path":  "Layouts\\Dezinfector\\Print\\Dezinfector_Edit.ai",
+        "bytes":  1431898,
+        "sha256":  "27061e7a14b0ce22b783fc41382a043220c9575d8c750e5fa6183d00635e50a0"
+    },
+    {
+        "path":  "Layouts\\Dezinfector\\Print\\Dezinfector_Edit.eps",
+        "bytes":  1414926,
+        "sha256":  "4444d47f2291d0b38ee914c566c28da2c7e2dcbb8b8685a14d43a666b2b81907"
+    },
+    {
+        "path":  "Layouts\\Dezinfector\\Print\\Dezinfector_Preview.png",
+        "bytes":  25294,
+        "sha256":  "b82f1635775b9991d6aef40c1d14c93825dac66e86a78888e8a596ed99efaea6"
+    },
+    {
+        "path":  "Layouts\\Dezinfector\\Print\\Dezinfector_Print.pdf",
+        "bytes":  79352,
+        "sha256":  "f0314f7fdf380521bc07759d965b937ba3a1219d0d62e3c47737b9889ac260de"
+    },
+    {
+        "path":  "Layouts\\Dog_Friendly\\Preview\\Dog_friendly.jpg",
+        "bytes":  1394780,
+        "sha256":  "f8e12b72d216e0f513f549980f6e8d4755a82136a2d88a155543ce7d1d6e4183"
+    },
+    {
+        "path":  "Layouts\\Dog_Friendly\\Print\\Dog friendly.ai",
+        "bytes":  396726,
+        "sha256":  "d02ff19cfa639b49d09f9ddc32bedfa42f6bbef995e139c5e40639a00960e31c"
+    },
+    {
+        "path":  "Layouts\\Dog_Friendly\\Print\\Dog friendly.eps",
+        "bytes":  1643538,
+        "sha256":  "c60327d76d6d7a575d54bb1fabf96c246812d392e9ab2a46c508fbb24bf9457a"
+    },
+    {
+        "path":  "Layouts\\Dog_Friendly\\Print\\Dog friendly.pdf",
+        "bytes":  398365,
+        "sha256":  "2a3af2b8f0a7520a926fc945c1fe04e77484a88b237c1780f18d2dd19d47c731"
+    },
+    {
+        "path":  "Layouts\\Dog_Friendly\\Print\\Dog friendly.png",
+        "bytes":  73669,
+        "sha256":  "8e357958ffe2af196b2dfdeab6216460f2e8ae574376e9545e753a1dafab07eb"
+    },
+    {
+        "path":  "Layouts\\Dog_Friendly\\Print\\Dog friendly.svg",
+        "bytes":  5664,
+        "sha256":  "353bde57ad1e852c00772b9215446a3bc1671871a559feb5a4c99126682c4de5"
+    },
+    {
+        "path":  "Layouts\\Door_Sticker\\Preview\\Entrance_Sticker.jpg",
+        "bytes":  588759,
+        "sha256":  "ca15a020d5bd2db002bca01d756a9ca1a2dc5bc14592d3e917fd2580fc2f52f4"
+    },
+    {
+        "path":  "Layouts\\Door_Sticker\\Print\\Tehnikum_Sticker door_97х210_Edit.ai",
+        "bytes":  388372,
+        "sha256":  "8be7cb21d30fa896a0566a5665521d00ef2647f09c47fed9be1de67e3222753d"
+    },
+    {
+        "path":  "Layouts\\Door_Sticker\\Print\\Tehnikum_Sticker door_97х210_Edit.eps",
+        "bytes":  1800862,
+        "sha256":  "a6d7335384dfafbc0fe188d93b53db0bb6cd792483e681869ca5147d62a3e8a3"
+    },
+    {
+        "path":  "Layouts\\Door_Sticker\\Print\\Tehnikum_Sticker door_97х210_Preview_1.png",
+        "bytes":  37781,
+        "sha256":  "2238ba0ea02bcae0efbd84dc0ee68aa46b24305c5c3f23b08b2d6f0831d55bc3"
+    },
+    {
+        "path":  "Layouts\\Door_Sticker\\Print\\Tehnikum_Sticker door_97х210_Preview_2.png",
+        "bytes":  43813,
+        "sha256":  "132ef92a8bb03901f7cbeb923d9901524b2b5a13ba038f2c66b5f9056cb5c5d7"
+    },
+    {
+        "path":  "Layouts\\Door_Sticker\\Print\\Tehnikum_Sticker door_97х210_Print.pdf",
+        "bytes":  72300,
+        "sha256":  "a7440f9bb0614e3d9a74501db8abd9c00f28a716fae4b60997227ea292747045"
+    },
+    {
+        "path":  "Layouts\\Envelope\\Print\\Tehnikum_Envelope_Edit.ai",
+        "bytes":  345079,
+        "sha256":  "c017677d35df691aa8c722e397cf38df250c9f558c862942888ed1541a8d7566"
+    },
+    {
+        "path":  "Layouts\\Envelope\\Print\\Tehnikum_Envelope_Edit.pdf",
+        "bytes":  346240,
+        "sha256":  "cc8cfa67a266492a5e41faeb1e7d1e05262328970896a3a0a13efc41511a2eac"
+    },
+    {
+        "path":  "Layouts\\Envelope\\Print\\Tehnikum_Envelope_Edit.png",
+        "bytes":  101177,
+        "sha256":  "3500c6a5b44399471de122706905480e55fd5fdb4382c98f12d5dbe4e23a5bea"
+    },
+    {
+        "path":  "Layouts\\Envelope\\Print\\Tehnikum_Envelope_Edit.svg",
+        "bytes":  12289,
+        "sha256":  "f1397954db8945670b33ee78bb5d7282c888d0b3e79729e4a431c2c3b86483f2"
+    },
+    {
+        "path":  "Layouts\\Hanger_sticker\\Preview\\preview.png",
+        "bytes":  2926050,
+        "sha256":  "56aec292ef086dc64da07904322db351485cd15b3190766a8434a297dfa7d7d7"
+    },
+    {
+        "path":  "Layouts\\Hanger_sticker\\Print\\Техникум_наклейка на вешалку.ai",
+        "bytes":  1482782,
+        "sha256":  "7c7b00706fa9d71314034f23ee86d926ee1b671be30fedf858a46a5b989678b1"
+    },
+    {
+        "path":  "Layouts\\Hanger_sticker\\Print\\Техникум_наклейка на вешалку_печать.pdf",
+        "bytes":  434183,
+        "sha256":  "9bfedce41620dc80d6972ec8f49a8e0c1e800c6fb2749b85c2423c9060d234e5"
+    },
+    {
+        "path":  "Layouts\\iPhone_Case\\Preview\\iphone_case.png",
+        "bytes":  840972,
+        "sha256":  "ce8a416a76ef193d99151fa6008af6799a18fbf3706b6ae60e7e5f77a67ba1bc"
+    },
+    {
+        "path":  "Layouts\\iPhone_Case\\Preview\\Phone_Cover.jpg",
+        "bytes":  5926311,
+        "sha256":  "5e27ad2afb6746f397016b13db9a9c0d866a6c29119f57a0ed3fde7454986713"
+    },
+    {
+        "path":  "Layouts\\iPhone_Case\\Print\\Сase.ai",
+        "bytes":  76178,
+        "sha256":  "9c95eb2ee8a4291df8770a80a14833ac089ad46c2a7341f4dd8533ab5eede492"
+    },
+    {
+        "path":  "Layouts\\iPhone_Case\\Print\\Сase.eps",
+        "bytes":  1038606,
+        "sha256":  "083f0f6586ba22c30c8a382606b624bed1c72b59296c2e1ed22505ec05a36239"
+    },
+    {
+        "path":  "Layouts\\iPhone_Case\\Print\\Сase.pdf",
+        "bytes":  42615,
+        "sha256":  "c9cafe4ad6c9a8b3f5245c7173c4f0f5cdbe695add3af1b60e5cc280a3ff2e7b"
+    },
+    {
+        "path":  "Layouts\\iPhone_Case\\Print\\Сase.png",
+        "bytes":  13748,
+        "sha256":  "f6b2d6771a3ef22381c287a52990c9babbf50bc1c770e491e1b05487ed13688f"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Preview\\lighter.png",
+        "bytes":  556435,
+        "sha256":  "8775aed9aaa2b4f3d939001bd775c360191795b6c6e8f90075284d1389be8867"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter-01.eps",
+        "bytes":  704758,
+        "sha256":  "1ccc9e1024ad121b0a032e2e8d26b1dc492e85f6deca7dbd9ec57d46f4d0b634"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter-02.eps",
+        "bytes":  700790,
+        "sha256":  "7382b1e06d63694387f976059d3f3b524024e5c18f5ea9a46376348e17ab3dc5"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter.ai",
+        "bytes":  1447966,
+        "sha256":  "27aa4a5c0b58c20d73b48efba10508c0775ba3bbe259d43189ee6804ca629e8c"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter.pdf",
+        "bytes":  390075,
+        "sha256":  "c69f28581b9c3ce57830027a9a95fe29f9475fecc3a91e74eda852740bdd31f9"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter.svg",
+        "bytes":  8694,
+        "sha256":  "61219bce0ca99bd5cb063e50693de55f207778b38502318ed5af2d2b1541c547"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter_print-01.png",
+        "bytes":  11346,
+        "sha256":  "407463838d31e3bca6966d9e87feb7b7e4424768d350392694e4d6b3ffdc60a2"
+    },
+    {
+        "path":  "Layouts\\Lighter\\Print\\lighter_print-02.png",
+        "bytes":  9125,
+        "sha256":  "3d14730e9bc39091b518cfcd405843df06f8e8b8503a984adb1f6b68d068db05"
+    },
+    {
+        "path":  "Layouts\\Light_Box\\Preview\\Light box.jpg",
+        "bytes":  19154491,
+        "sha256":  "25df2b6bc0cd3c862743a2612dcccb7cdaf739c24e54b216e033f75775e55aa5"
+    },
+    {
+        "path":  "Layouts\\Light_Box\\Print\\Light box_Edit.ai",
+        "bytes":  569890,
+        "sha256":  "07638c285d472dfb98c6ec7010eff7d70d494972538a155397cf0cb5b8c869f1"
+    },
+    {
+        "path":  "Layouts\\Light_Box\\Print\\Light box_Edit.eps",
+        "bytes":  6840090,
+        "sha256":  "6f53fcceb70a484eccbc71b0688e6a1cdab5fdc2231b4584cad799fa80902e1a"
+    },
+    {
+        "path":  "Layouts\\Light_Box\\Print\\Light_box_Preview.png",
+        "bytes":  1778812,
+        "sha256":  "3de5cc864262ab2b812d0b00a78ba91b1df7ac78ab98a174bdc5fc04b11514a7"
+    },
+    {
+        "path":  "Layouts\\Light_Box\\Print\\Light_box_Print.pdf",
+        "bytes":  140076,
+        "sha256":  "6f371281cb64133f126acfec19a77a2b14b2ca31f8ecda134621543475a2ced5"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\Menu.jpg",
+        "bytes":  3472167,
+        "sha256":  "f34d95d73267117e0883dcd49e21f36c8936aba5205957d7c08e9972b5911f7a"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_chinese\\tehnikum_all_menu15.jpg",
+        "bytes":  2152170,
+        "sha256":  "3c91798f225bf32a93af4c8794c205f37c26750cca7c4276faa43c8548168254"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_chinese\\tehnikum_all_menu16.jpg",
+        "bytes":  4199162,
+        "sha256":  "d50a6ac3601ee7261ba37def531bb2568c80f63f37424d5d6da3120e9fbbddbc"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_chinese\\tehnikum_all_menu17.jpg",
+        "bytes":  4966173,
+        "sha256":  "d1ebcb251c6966833864fb7314422448fa97dfb77d39bcdb592254fe0eac60ea"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_chinese\\tehnikum_all_menu18.jpg",
+        "bytes":  4384002,
+        "sha256":  "0ae73b3b54de57071b6e65afe832bc540a82ca2c32edf836b320772a503bfcf8"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu10.jpg",
+        "bytes":  4765339,
+        "sha256":  "04e3f2b5eb1ba9db88a9920b42b38ea49ad6d787eeebf00b8fbb788f70699676"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu11.jpg",
+        "bytes":  4364287,
+        "sha256":  "125d24c645b17908e61416fa33e8ba718043119473650aba43d0b89af6b3b1aa"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu12.jpg",
+        "bytes":  3884184,
+        "sha256":  "07c8625058acdef3d3f9506a9ccf29e028053b6a7cd08c0fb83054d6582c9603"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu13.jpg",
+        "bytes":  4274593,
+        "sha256":  "ecfe3b39184e53ab6c1406cb8c951d345a582c81be7c809c6ac53f8a7d01cfd3"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu14.jpg",
+        "bytes":  4249685,
+        "sha256":  "67fa63300405a8de261cab0c2a39a24f12db2f23a6f42ac21a38b185e23b99b3"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu8.jpg",
+        "bytes":  2154540,
+        "sha256":  "f8655022343f487600adac015d9a1f872937e0a31da28e7744873d5f29b209db"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_english\\tehnikum_all_menu9.jpg",
+        "bytes":  4722318,
+        "sha256":  "643084fb4ee9a2cdd4e518ab7c62880041911a8aaae37ffb948d45e84d174edb"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\breakfast.jpg",
+        "bytes":  3909886,
+        "sha256":  "1c7b590c1469422b60ae35ca5cbcd28ff06e30deb2cc4c303cc1a7982189600f"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\gastro.jpg",
+        "bytes":  4209618,
+        "sha256":  "52277880b2c1a2283a4ea9c79a548b6aa15113b1f8bcb8ae36ba1c1407ae12fc"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\night.jpg",
+        "bytes":  4334252,
+        "sha256":  "cb64d73913612abdc1ac4421ec9db4eb29b0e59b869142b04786b92401d74ff7"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\tehnikum_all_menu.jpg",
+        "bytes":  2169336,
+        "sha256":  "c298bd95766707aacec16591f9c53e563598496d7a1e1e223dcb4528b3aede84"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\tehnikum_all_menu2.jpg",
+        "bytes":  4829453,
+        "sha256":  "f6676d165c27e381d1c25006c81e485792393d8f11aab508e893797477b4bd92"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\tehnikum_all_menu3.jpg",
+        "bytes":  4804725,
+        "sha256":  "719ac32f58bfa2b9a92d212359d1c9a818464bec537fe44ce9f584a8adf7fd0e"
+    },
+    {
+        "path":  "Layouts\\Menu\\Preview\\all_menu_russia\\tehnikum_all_menu4.jpg",
+        "bytes":  4641389,
+        "sha256":  "dafe8cbdf068c7be1f8801699ebcbabdb5e8b299e516199ff8cd935cbe14ceea"
+    },
+    {
+        "path":  "Layouts\\Menu\\Print\\Папка Финал_new_price_Tehnikum_rus_30.09.zip",
+        "bytes":  22536634,
+        "sha256":  "e18ee06ef366e593575d66bd213de491e49866adb4cf4dd667e3cf5c2b8d3b84"
+    },
+    {
+        "path":  "Layouts\\Menu\\Print\\Финал_new_price_Tehnikum_rus_30.09.indd",
+        "bytes":  21966848,
+        "sha256":  "8c0c532daa8e07648179365e1034eb1dfcbbbc08393ca30ecbad3dcc164a74bf"
+    },
+    {
+        "path":  "Layouts\\Menu\\Print\\Финал_new_price_Tehnikum_rus_30.09.pdf",
+        "bytes":  738402,
+        "sha256":  "ec669c8f14dbd88b2dcee69266138a6f0d96ce00c283dcc636295008efd3bbd4"
+    },
+    {
+        "path":  "Layouts\\Menu_Kids\\Preview\\kids menu.jpg",
+        "bytes":  1918177,
+        "sha256":  "61c66d9f4ec3cf461953b8e5f9bdcbb0b18d91137278434b409bda2f1e0e71ed"
+    },
+    {
+        "path":  "Layouts\\Menu_Kids\\Preview\\menu_kids_preview.png",
+        "bytes":  5521609,
+        "sha256":  "c4205588b58ed827e77fe6d9984f59919f1aeaa82ec61f09fec61c96661e0d86"
+    },
+    {
+        "path":  "Layouts\\Menu_Kids\\Print\\menu_kids.indd",
+        "bytes":  5591040,
+        "sha256":  "7b3f620ed1d576eac2a53e9938de1ecce829b156c2e7dff9cf4495ead3610c22"
+    },
+    {
+        "path":  "Layouts\\Menu_Kids\\Print\\menu_kids.pdf",
+        "bytes":  3894504,
+        "sha256":  "6e5ea4ab83ef78adf38ebf0e8eb5d2d9800e520cb7c5787109464c2b56a7bde0"
+    },
+    {
+        "path":  "Layouts\\Menu_Kids\\Print\\Папка menu_kids.zip",
+        "bytes":  13454039,
+        "sha256":  "e2ce4e8ae11ced88288d9d2f281eb2d73f892215f59dd9687be2dc9f2bba0029"
+    },
+    {
+        "path":  "Layouts\\Menu_late_breakfasts\\Папка поздние завтраки_2025_Дмитровка_крафт.zip",
+        "bytes":  23534356,
+        "sha256":  "7c1d01eb1515515aa0c280ac5204f5d062d15061011cb25ed6076abec0e56735"
+    },
+    {
+        "path":  "Layouts\\Menu_late_breakfasts\\поздние завтраки_2025_Дмитровка_крафт.pdf",
+        "bytes":  4409000,
+        "sha256":  "3cdff7415868035911eb7b2169b8917c351927e473d3a476c581570a70f1df5e"
+    },
+    {
+        "path":  "Layouts\\Menu_late_breakfasts\\поздние завтраки_2025_Дмитровка_крафт.png",
+        "bytes":  3424359,
+        "sha256":  "e103ddfcb821009162f35e05960768e380040c28536820666732da601077f6a9"
+    },
+    {
+        "path":  "Layouts\\Menu_special_menu\\Папка chanterelles_03.07.2026_дмитровка_толстый крафт_односторонний\\финал_chanterelles_07.07.26_дмитровка_толстый крафт_односторонний.idml",
+        "bytes":  1179218,
+        "sha256":  "bcb0843b9f6847949119b85eb47e055f01bb8b7ded779fb8471c9f9a0aabf99c"
+    },
+    {
+        "path":  "Layouts\\Menu_special_menu\\Папка chanterelles_03.07.2026_дмитровка_толстый крафт_односторонний\\финал_chanterelles_07.07.pdf",
+        "bytes":  222592,
+        "sha256":  "b5f6c99f5021ff9d42f47a51549964f9b705a17f7ece77201441bc20d20d1d75"
+    },
+    {
+        "path":  "Layouts\\Menu_special_menu\\Папка chanterelles_03.07.2026_дмитровка_толстый крафт_односторонний\\финал_chanterelles_07.07.png",
+        "bytes":  1587302,
+        "sha256":  "93b92ede6fbb4971e3284023b55b34a45df7794467602051038c89ff8a717a0d"
+    },
+    {
+        "path":  "Layouts\\Number_Tag\\Preview\\Number.jpg",
+        "bytes":  4121892,
+        "sha256":  "b42b3117c3449df83926941607a01dffeb3a1bccdeef00375b0b5685049d8a37"
+    },
+    {
+        "path":  "Layouts\\Number_Tag\\Preview\\number_preview.png",
+        "bytes":  723765,
+        "sha256":  "21b0817bcbcff96d8b5dbec9856a4e739fd0c310c163ea29011be39f83abbfc6"
+    },
+    {
+        "path":  "Layouts\\Number_Tag\\Print\\Number.ai",
+        "bytes":  368398,
+        "sha256":  "5f6b9b250b7fa046404584206aaf44b67bacc1033a53b488f5edfebaf9caaf21"
+    },
+    {
+        "path":  "Layouts\\Number_Tag\\Print\\Number.eps",
+        "bytes":  1410874,
+        "sha256":  "b35a44c05c35505821554598bb6388357ada0e25334c08c709b6e92a358690f4"
+    },
+    {
+        "path":  "Layouts\\Number_Tag\\Print\\Number.pdf",
+        "bytes":  58828,
+        "sha256":  "a9453f772a03dac23cca78686ffbcbd363f5d3482fbe20b048e773e7bfba7dae"
+    },
+    {
+        "path":  "Layouts\\Number_Tag\\Print\\Number.png",
+        "bytes":  17074,
+        "sha256":  "747fbe065468b58b553e80c3b9109fbaedad52a5f90a6486e737a7b0a3c12f7b"
+    },
+    {
+        "path":  "Layouts\\Pen\\Preview\\pen preview.png",
+        "bytes":  102213,
+        "sha256":  "894cfd6f57cf2e6c7c44494291a984b5db7db420047f26946080ec6f57a6935f"
+    },
+    {
+        "path":  "Layouts\\Pen\\Print\\pen print.ai",
+        "bytes":  1429762,
+        "sha256":  "8a290946e78c12b9b4b6cda50facbf98bbf51f7a1a2308c7a83172244693fc4a"
+    },
+    {
+        "path":  "Layouts\\Pen\\Print\\pen print.eps",
+        "bytes":  1391950,
+        "sha256":  "5e397987feb7615b19ba60dc4520b1249ae778337687b03b51247b7812d28f4b"
+    },
+    {
+        "path":  "Layouts\\Pen\\Print\\pen print.pdf",
+        "bytes":  370860,
+        "sha256":  "fc550839611d8228c4507133968b31c854215974e821dda337852a0ecbea4dcb"
+    },
+    {
+        "path":  "Layouts\\Pen\\Print\\pen print.svg",
+        "bytes":  5113,
+        "sha256":  "b70ea9a154507a4681e7421a4a76144ed7cd95a8479b82998e80007735542e6c"
+    },
+    {
+        "path":  "Layouts\\Power_Bank\\Preview\\Power_bank.jpg",
+        "bytes":  5662610,
+        "sha256":  "25b42745f9ed38b6fab6afce703645ccf4728ea294c64ae65059e88b08f44913"
+    },
+    {
+        "path":  "Layouts\\Power_Bank\\Print\\Power_bank_Edit.ai",
+        "bytes":  1143808,
+        "sha256":  "0650245ea186ca41419e9805efdf3c4ec5b096bec19ac45202fc9f3f30bfe431"
+    },
+    {
+        "path":  "Layouts\\Power_Bank\\Print\\Power_bank_Edit.eps",
+        "bytes":  1301630,
+        "sha256":  "e6eae5d946e5dddef976d3a594385b6c516b1fe63d0110cb603030e62f39d555"
+    },
+    {
+        "path":  "Layouts\\Power_Bank\\Print\\Power_bank_Preview.png",
+        "bytes":  46460,
+        "sha256":  "afc8ab411b4e0f811919d9b735ace3e053e1729019d0e81307be655bd8d8ee4b"
+    },
+    {
+        "path":  "Layouts\\Power_Bank\\Print\\Power_bank_Print.pdf",
+        "bytes":  84486,
+        "sha256":  "3074aa8a577a8f19d238897849b193b131d31ef34026035f460694fb938a65a8"
+    },
+    {
+        "path":  "Layouts\\Price_Tags\\Preview\\price_tags_preview.png",
+        "bytes":  5355339,
+        "sha256":  "a14305d8fd2bb7d503658adaae984d910a8f0423321ec289c77d7311462aa175"
+    },
+    {
+        "path":  "Layouts\\Price_Tags\\Print\\price_tags_print.ai",
+        "bytes":  361384,
+        "sha256":  "03b5ac4953ba139cf476a104d828ce6d635fcfd1724d54612d14f907e832e7d9"
+    },
+    {
+        "path":  "Layouts\\Price_Tags\\Print\\price_tags_print.eps",
+        "bytes":  703250,
+        "sha256":  "98ad488c64da33d0f5db17744052fd1eb6b31976bcd239025b98480f8ff2906a"
+    },
+    {
+        "path":  "Layouts\\Price_Tags\\Print\\price_tags_print.pdf",
+        "bytes":  355572,
+        "sha256":  "6e9eb9fee3683b05942d0883e74117358b41c8379d1e19078548db3bf08611da"
+    },
+    {
+        "path":  "Layouts\\Price_Tags\\Print\\price_tags_print.png",
+        "bytes":  11265,
+        "sha256":  "ca667f1cb943885153ff0bf9aec0c460036d97ccc52c24021c9d595d10d73ccc"
+    },
+    {
+        "path":  "Layouts\\Price_Tags\\Print\\price_tags_print.svg",
+        "bytes":  2800,
+        "sha256":  "fea644bf2092f5f57b22147f3a855e2428b6e8c5248ac6b4ee9b1e526dc5ae75"
+    },
+    {
+        "path":  "Layouts\\Signboard\\1\\Signboard.ai",
+        "bytes":  1398103,
+        "sha256":  "65273aa7ff98893d36d6d1e7716739a67c8bec5b384203c67e22aeb559c40f8a"
+    },
+    {
+        "path":  "Layouts\\Signboard\\1\\Signboard.eps",
+        "bytes":  6546806,
+        "sha256":  "83771ca158e9cc5d2a19533151ca9f18199b2cd7fa0b5caba75bd9db78196e55"
+    },
+    {
+        "path":  "Layouts\\Signboard\\1\\Signboard.pdf",
+        "bytes":  49824,
+        "sha256":  "db3da0fb731627a24e64df730ba6adcae38206829d2bb4ea561c58fd13db6ff2"
+    },
+    {
+        "path":  "Layouts\\Signboard\\1\\Signboard.png",
+        "bytes":  1002085,
+        "sha256":  "a441f0326eaf6ff051511a789d30fa94285eee64d556465998e94f3d3390ba91"
+    },
+    {
+        "path":  "Layouts\\Signboard\\1\\signboard_preview.jpg",
+        "bytes":  2817328,
+        "sha256":  "c1daa459946da642b149292b52a1213c71cccd4f4d9b430714f90d39db0f53f5"
+    },
+    {
+        "path":  "Layouts\\Signboard\\2\\Signboard.ai",
+        "bytes":  1411161,
+        "sha256":  "2ed856f708258d51d641debbd2e0875d894139e9db6af9232c4ac2059088e2d5"
+    },
+    {
+        "path":  "Layouts\\Signboard\\2\\Signboard.eps",
+        "bytes":  5382878,
+        "sha256":  "dc0a945e1f2d6f391a09c3797992f8bb87dfac16b17be2da4d809efdb18af681"
+    },
+    {
+        "path":  "Layouts\\Signboard\\2\\Signboard.pdf",
+        "bytes":  62616,
+        "sha256":  "dd288df6fcce5f19b12173292219103d3110d8577d5bab344d6137cf185fe8f7"
+    },
+    {
+        "path":  "Layouts\\Signboard\\2\\Signboard.png",
+        "bytes":  262317,
+        "sha256":  "7eb25f0f9cf4a08a28266b92c069068da191925d74777a742f051f53ab559fda"
+    },
+    {
+        "path":  "Layouts\\Signboard\\2\\signboard_2_preview.png",
+        "bytes":  23343280,
+        "sha256":  "d07feabbfe058202912e3ec77dc3be5da499d41f6a62b4a6f9895f9b2f35a764"
+    },
+    {
+        "path":  "Layouts\\Sticker_pack\\Preview\\sticker_pack_preview.png",
+        "bytes":  6162087,
+        "sha256":  "e6a60be0c37f11275487086b907a17eee6bb3f206e6baf1e991c871d51658250"
+    },
+    {
+        "path":  "Layouts\\Sticker_pack\\Print\\stickerpak_А5_TEHNIKUM_print.ai",
+        "bytes":  1829731,
+        "sha256":  "3da2b3a7831536d061efa97afb3e72ffae6cfac47c5ab3c6c8be7fade57e0d2c"
+    },
+    {
+        "path":  "Layouts\\Sticker_pack\\Print\\stickerpak_А5_TEHNIKUM_print.eps",
+        "bytes":  2653502,
+        "sha256":  "6e5d2c4c10439aea49a9859930554e1e98fc272d54f28e55b839d683407e6e79"
+    },
+    {
+        "path":  "Layouts\\Sticker_pack\\Print\\stickerpak_А5_TEHNIKUM_print.pdf",
+        "bytes":  776329,
+        "sha256":  "58cdace691ddeb6e2218b5a0eb93e2c909d7f052aa836302786fd251aa5ccdab"
+    },
+    {
+        "path":  "Layouts\\Sticker_pack\\Print\\stickerpak_А5_TEHNIKUM_print.png",
+        "bytes":  529875,
+        "sha256":  "8c534daa53272fe6a518e643808839ad2007acc9c9cb1e2ce01c45adea68c6ca"
+    },
+    {
+        "path":  "Layouts\\Sticker_pack\\Print\\stickerpak_А5_TEHNIKUM_print.svg",
+        "bytes":  118395,
+        "sha256":  "b2ef90e0242476501b9925f8dce01eb4551a6016c41f4f5c54cb435dbdca3848"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Preview\\Table Reserve.jpg",
+        "bytes":  6106119,
+        "sha256":  "a5778fd15b2b486b20d0fddcddfbe58127189108ea8ce19d241734c4e2839495"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Preview\\Table_Reserve_print_with_craft_preview.png",
+        "bytes":  1537946,
+        "sha256":  "12be3356f0ab05b30ba598debba1bb42311f7682a5bcfd11499c302576c6943c"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve.ai",
+        "bytes":  354296,
+        "sha256":  "1427ba110300e2b6040ec4b23908a16e7ddb258bb49043868273685ca34c4e8e"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve.eps",
+        "bytes":  1290950,
+        "sha256":  "30b43557d42847a180305e0c290f0c1dcfef035f9c703822fa453397bf154317"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_Preview.png",
+        "bytes":  19092,
+        "sha256":  "39bfcd0364402cf917499cafe210560db987bf2ab42b71595aad9b060dc6c188"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_Print.pdf",
+        "bytes":  353021,
+        "sha256":  "ce9cb5bc680c2aa450eb4b1620942d932a129a4fb2dda669f9623a42dd7176c0"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_without_background.ai",
+        "bytes":  369689,
+        "sha256":  "6569699dd17257dcf9561d1282bad14f407f4e152685f1a058ae6a78694d47d6"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_without_background.eps",
+        "bytes":  1491042,
+        "sha256":  "bcf52898426367e67965518c0b3d191f421bba2c24b7f43f1bacde43e3813ffb"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_without_background.pdf",
+        "bytes":  368855,
+        "sha256":  "cdef1262e7a152398e80804d1f7bb90c065e5bc10c3ee1cda53427b63abe9ab7"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_without_background.svg",
+        "bytes":  558,
+        "sha256":  "deec4dfaf7768f59a3742fe94d033a72b0612b018c79a281b5a2b9fb413974ca"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_with_craft.ai",
+        "bytes":  16623373,
+        "sha256":  "ac661901fb64c505fcf7537e4b55ea84821d7e134f00a390118b6be43f0d607a"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_with_craft.eps",
+        "bytes":  68803242,
+        "sha256":  "a7304fdf04b756aeff4554275d77d6da4ed73a629f4cd04ed436dd2bdb77ab6d"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_with_craft.pdf",
+        "bytes":  16621762,
+        "sha256":  "82b2d1961bca4fdafa80ff24541e55a38505ca9d05b0ab60c4423e2ebf152b3a"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_with_craft.png",
+        "bytes":  943815,
+        "sha256":  "0b0ea083746ccd05047f58e0939b101b3e528b680e2b96ae53dbea702971605f"
+    },
+    {
+        "path":  "Layouts\\Table_Reserve\\Print\\Table_Reserve_print_with_craft.svg",
+        "bytes":  711,
+        "sha256":  "b8ea76a7472ab3a10636be480c43787909962df683754654b5d160639b9911a7"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Preview\\Table_Tent_Preview.png",
+        "bytes":  857492,
+        "sha256":  "9372fcebf8656940bbf679f8ecee19a1aa93f3b0b10fed02eed591e577c6e7ac"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Preview\\Table_Tent_Preview2.png",
+        "bytes":  768809,
+        "sha256":  "f9bb7e0aa382c71fb4cbe61fe1cd064cd88075a157fb6a4076f245de4a802f44"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Preview\\Table_tent_preview_3.png",
+        "bytes":  3329956,
+        "sha256":  "e47ca2b0e3d6e3341f65952af0cd9592e87df0d7b80abb9e0bb1ad7c710421f1"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Preview\\тейбл-тент подставка.png",
+        "bytes":  867761,
+        "sha256":  "c2135295c0cdfcd120db55061b97fb99da4c1b43a44ec81b420b96101f0f71f8"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent 1.png",
+        "bytes":  61859,
+        "sha256":  "4aded48d2fddcf8657acd4fbaac8a061314250c444ddfd2cdd0dd3a42f6a3edd"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent 2.png",
+        "bytes":  56974,
+        "sha256":  "61466293a958e298bace9a9ab9fb9e3f07b97f80158490fe6d161430771798ce"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent-02.svg",
+        "bytes":  268337,
+        "sha256":  "f53938776b7d5be8c3a1cc4a322e0cd38903bcff7afb90a90c72c01d39bff11b"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent.ai",
+        "bytes":  4232085,
+        "sha256":  "616185bc3c670af4b802582eabbc09d7b41f71da14002013d408a55843018af5"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent.eps",
+        "bytes":  12386214,
+        "sha256":  "eeda05372a878877bbcd4eac0b05ff2e9aef636dce506a16735e688b6dd462e5"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent.pdf",
+        "bytes":  3178702,
+        "sha256":  "a577f9e93021e495a82b3ae8810623d6c71a581bafbd6dc61524245e23c86638"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\Table_Tent_Монтажная область 1 копия 3.svg",
+        "bytes":  403383,
+        "sha256":  "437206522ef380e56c3a7a14583313f62732b809d004b33610b5a4671ca38d5d"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\тейбл-тент макет.ai",
+        "bytes":  1439087,
+        "sha256":  "f1a980047a6b92a9e6180e5c5f5e5a951fa599167478d755ad19489bdf56cd06"
+    },
+    {
+        "path":  "Layouts\\Table_Tent\\Print\\тейбл-тент макет.png",
+        "bytes":  110423,
+        "sha256":  "bb842e2b89ab42ac0a5d1c9f2d75d343a3ea810eccf0376fc39bbf532dc3b567"
+    },
+    {
+        "path":  "Layouts\\Working_mode\\Preview\\Working_mode.jpg",
+        "bytes":  2323605,
+        "sha256":  "d6daa4e87ca3888d824b0dddef3109f1b7e07033d4178680dcea31e0f7712aeb"
+    },
+    {
+        "path":  "Layouts\\Working_mode\\Print\\Working_mode.ai",
+        "bytes":  100986,
+        "sha256":  "af5296eeafc58faf6bf2d897e615c6c28c50a95ac5692b8c06831afe70d38073"
+    },
+    {
+        "path":  "Layouts\\Working_mode\\Print\\Working_mode.eps",
+        "bytes":  2174098,
+        "sha256":  "543d54fa5c5acef7a95aa4ce42da2962c09496c5f6b0916f731cfc3a12bd0688"
+    },
+    {
+        "path":  "Layouts\\Working_mode\\Print\\Working_mode.pdf",
+        "bytes":  44308,
+        "sha256":  "85adaabf2d8d6751fa389099be869f9eb3022623d256bd3214e5e63f136994fe"
+    },
+    {
+        "path":  "Layouts\\Working_mode\\Print\\Working_mode.png",
+        "bytes":  189350,
+        "sha256":  "3e09ab223d91212e47d1ec14ac112ea0ad47eeac3ab3a24a6af649042d166020"
+    },
+    {
+        "path":  "Layouts\\Сutlery_stand\\Preview\\cutlery stand.jpg",
+        "bytes":  838298,
+        "sha256":  "e684a0d38f93c3ad068fdce5ff4f0902cfb44e78fa85ed5d5116f2ec16aca562"
+    },
+    {
+        "path":  "Layouts\\Сutlery_stand\\Print\\cutlery stand.ai",
+        "bytes":  1411275,
+        "sha256":  "ae6efed01814d2cf20a47d5c70dae92edb19c47b795af19c2b568e0eafd1309f"
+    },
+    {
+        "path":  "Layouts\\Сutlery_stand\\Print\\cutlery stand.eps",
+        "bytes":  1451966,
+        "sha256":  "10cb82b34cd206e964e2e184640ad3e871ac2024db246bb5f45008a7a50c49a7"
+    },
+    {
+        "path":  "Layouts\\Сutlery_stand\\Print\\cutlery stand.pdf",
+        "bytes":  64586,
+        "sha256":  "c48d4488bd5e1ed002cd4f62e8d39fa225a7469fa9a46fb7b1785672816c0437"
+    },
+    {
+        "path":  "Layouts\\Сutlery_stand\\Print\\cutlery stand.png",
+        "bytes":  33252,
+        "sha256":  "148821be8ecf4b9fd595c0c57637ae074452ef6b1a3d54114964927801be767e"
+    },
+    {
+        "path":  "references\\17f8e8ee906862ab20d2366338b49932.jpg",
+        "bytes":  39469,
+        "sha256":  "724faf669f8eae6fafbaab7fae2babe4c3e372111805bf9d31c6b4351e0db3bc"
+    },
+    {
+        "path":  "references\\1cbf793317f5a1bbf6045094d4e458db.jpg",
+        "bytes":  72543,
+        "sha256":  "f4a7bb8d4ddd45f7aafc0b9f508dc5c82f920d5efe2cbd3ec44f1c916405822b"
+    },
+    {
+        "path":  "references\\6fddaf18d7476e5d53b54025da34286a.jpg",
+        "bytes":  94390,
+        "sha256":  "875b09e3d82a70d53cb785ae8e67bd9932ca19802f549e67b56ee57a3f2180dc"
+    },
+    {
+        "path":  "references\\f35b81580795330675f92897a070cd5d.jpg",
+        "bytes":  149335,
+        "sha256":  "049f9bf82c34fe0c2d49987b8cafe8760aef224030dea85a85685096bcfe75cb"
+    },
+    {
+        "path":  "references\\fad97b348d77a6604f87ba8b5bf1c7aa.jpg",
+        "bytes":  124208,
+        "sha256":  "c91be5d661ff869f92aa3940525aba7a5cfa7aef9d02e48c3f6962baf2ecb1ea"
+    }
+]

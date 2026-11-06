@@ -1,0 +1,54 @@
+﻿D:\tekhnikym\input\references\17f8e8ee906862ab20d2366338b49932.jpg
+D:\tekhnikym\input\references\1cbf793317f5a1bbf6045094d4e458db.jpg
+D:\tekhnikym\input\references\6fddaf18d7476e5d53b54025da34286a.jpg
+D:\tekhnikym\input\references\f35b81580795330675f92897a070cd5d.jpg
+D:\tekhnikym\input\references\fad97b348d77a6604f87ba8b5bf1c7aa.jpg
+D:\tekhnikym\input\Layouts\Apron\Preview\Apron_Preview.png
+D:\tekhnikym\input\Layouts\Burner_casing\Preview\Burner_casing_preview.png
+D:\tekhnikym\input\Layouts\Certificate_Card\Preview\Certificate_cards.jpg
+D:\tekhnikym\input\Layouts\Certificate_Cover\Preview\Certificate_Cover.jpg
+D:\tekhnikym\input\Layouts\Check_Folder\Preview\Check folder.jpg
+D:\tekhnikym\input\Layouts\Consumer’s_corner\Preview\Consumer’s_corner.png
+D:\tekhnikym\input\Layouts\Dezinfector\Preview\Dezinfector.jpg
+D:\tekhnikym\input\Layouts\Dog_Friendly\Preview\Dog_friendly.jpg
+D:\tekhnikym\input\Layouts\Door_Sticker\Preview\Entrance_Sticker.jpg
+D:\tekhnikym\input\Layouts\Hanger_sticker\Preview\preview.png
+D:\tekhnikym\input\Layouts\iPhone_Case\Preview\iphone_case.png
+D:\tekhnikym\input\Layouts\iPhone_Case\Preview\Phone_Cover.jpg
+D:\tekhnikym\input\Layouts\Lighter\Preview\lighter.png
+D:\tekhnikym\input\Layouts\Light_Box\Preview\Light box.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\Menu.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_chinese\tehnikum_all_menu15.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_chinese\tehnikum_all_menu16.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_chinese\tehnikum_all_menu17.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_chinese\tehnikum_all_menu18.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu10.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu11.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu12.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu13.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu14.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu8.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_english\tehnikum_all_menu9.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\breakfast.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\gastro.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\night.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\tehnikum_all_menu.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\tehnikum_all_menu2.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\tehnikum_all_menu3.jpg
+D:\tekhnikym\input\Layouts\Menu\Preview\all_menu_russia\tehnikum_all_menu4.jpg
+D:\tekhnikym\input\Layouts\Menu_Kids\Preview\kids menu.jpg
+D:\tekhnikym\input\Layouts\Menu_Kids\Preview\menu_kids_preview.png
+D:\tekhnikym\input\Layouts\Number_Tag\Preview\Number.jpg
+D:\tekhnikym\input\Layouts\Number_Tag\Preview\number_preview.png
+D:\tekhnikym\input\Layouts\Pen\Preview\pen preview.png
+D:\tekhnikym\input\Layouts\Power_Bank\Preview\Power_bank.jpg
+D:\tekhnikym\input\Layouts\Price_Tags\Preview\price_tags_preview.png
+D:\tekhnikym\input\Layouts\Sticker_pack\Preview\sticker_pack_preview.png
+D:\tekhnikym\input\Layouts\Table_Reserve\Preview\Table Reserve.jpg
+D:\tekhnikym\input\Layouts\Table_Reserve\Preview\Table_Reserve_print_with_craft_preview.png
+D:\tekhnikym\input\Layouts\Table_Tent\Preview\Table_Tent_Preview.png
+D:\tekhnikym\input\Layouts\Table_Tent\Preview\Table_Tent_Preview2.png
+D:\tekhnikym\input\Layouts\Table_Tent\Preview\Table_tent_preview_3.png
+D:\tekhnikym\input\Layouts\Table_Tent\Preview\тейбл-тент подставка.png
+D:\tekhnikym\input\Layouts\Working_mode\Preview\Working_mode.jpg
+D:\tekhnikym\input\Layouts\Сutlery_stand\Preview\cutlery stand.jpg

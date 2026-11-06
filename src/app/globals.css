@@ -1,0 +1,19 @@
+@import "tailwindcss" source(none);
+
+@source "../";
+
+@theme {
+  --color-brand-red: #ce3a2b;
+  --color-brand-ink: #2c2a26;
+  --color-brand-grey: #e4e1e5;
+  --color-ui-muted: #77736f;
+  --color-ui-hover: #f5f4f5;
+}
+
+@theme inline {
+  --font-brand: var(--font-tehnikum);
+  --font-brand-mono: var(--font-courier-new);
+  --font-sans: var(--font-courier-new);
+  --font-serif: var(--font-courier-new);
+  --font-mono: var(--font-courier-new);
+}
